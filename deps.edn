@@ -41,6 +41,7 @@
 ;; ---------------------------------------------------
 
 {;; ---------------------------------------------------
+ :mvn/local-repo "/Users/jim/.cache/maven/repository"
  ;; Alias definitions
 
  :aliases
